@@ -9,8 +9,13 @@ This repository offers an geopolitical risk (GPR) dataset derived from textual d
 Following Caldara and Iacoviello (2022), we employed a dictionary method by using Chinese keywords. For more details, please see Ito, Lim, and Zhang (2025).
 
 ## XiGPR: March 2013 to December 2024
-Monthly data  
-![image](https://user-images.githubusercontent.com/63130024/211631172-5a4b5b18-0419-4944-8125-c853963b3fff.png)
+Figure 1. Constructed XiGPR compared with GPR and EPU (2013Q1-2024Q4)
+<img width="1928" height="1055" alt="Rplot_A_figure_2_scaled_monthly_indice" src="https://github.com/user-attachments/assets/201eeb49-3976-4b41-854d-d42cf7828817" />
+Note: PDGPR is measured by using *People's Daily*.
+
+Figure 2. Categorical share of GPR articles (2013Q1-2024Q4)
+<img width="852" height="512" alt="Rplot_A_fig_decompose" src="https://github.com/user-attachments/assets/6fcc8149-f5de-49b0-85d1-642d4dcdcaed" />
+
 
 Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPU_until_Dec_2021.xlsx)
 
