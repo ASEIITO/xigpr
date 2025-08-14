@@ -26,7 +26,7 @@ Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2025) "Measuring Political Leader’
 Please cite as follows:
 
 ```
-Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2025) "Measuring Political Leader’s Geopolitical Risk Perceptions", *International Economics*.
+Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2025) "Measuring Political Leader’s Geopolitical Risk Perceptions", International Economics.
 ```
 
 ## Contact
